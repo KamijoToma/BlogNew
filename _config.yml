@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: RainSky
-subtitle: 'Since AD2024'
+title: RainSky's Blog
+subtitle: 'Sleeping since AD2024'
 description: 'A place where a CSer sleep.'
-keywords:
+keywords: Computer Science,Blog,计算机技术,博客,SkyRain
 author: SkyRain
-language: zh
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
@@ -102,3 +102,11 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+  
+
+# Markdown config due to Butterfly KaTex config
+markdown:
+  plugins:
+    - '@renbaoshuo/markdown-it-katex'
+
+
