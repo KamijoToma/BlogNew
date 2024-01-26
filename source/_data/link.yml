@@ -1,0 +1,7 @@
+- class_name: 友情链接
+  class_desc: 我和我的朋友们～
+  link_list:
+    - name: 秋风飘起黄叶落
+      link: https://qfpqhyl.github.io/
+      avatar: https://telegraph-image.pages.dev/file/ed80916ca32472f3b9076.png
+      descr: Just a life record.
